@@ -50,11 +50,11 @@
 ## 公司内部网站
 
 - [ ] 前端首页-技术栈分类介绍 [http://fe.youyuwo.cn](http://fe.youyuwo.cn)
-  - h5文档
-  - 小程序文档
-  - rn文档
-  - 动画库文档
-  - ...
+  - [ ] h5文档
+  - [ ] 小程序文档
+  - [ ] rn文档
+  - [ ] 动画库文档
+  - [ ] ...
 - [ ] blog-发布文章平台[http://blog.youyuwo.cn](http://blog.youyuwo.cn)
 - [X] admin-公司后台统一入口[http://admin.youyuwo.cn](http://admin.youyuwo.cn)
 - [x] 分享-公司内部分享展示平台[http://share.youyuwo.cn](http://share.youyuwo.cn)
