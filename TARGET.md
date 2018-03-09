@@ -26,26 +26,26 @@
 
 ## cli 工具类
 
-- 🏊快速搭建react vue 项目 [caiyi](http://gitlab.gs.9188.com/caiyi.html5.public/caiyi)[🌱npm](https://www.npmjs.com/package/caiyi)
-- 🏊ts，es6编译  [tyc](https://github.com/vvo-io/tyc)[🌱npm](https://www.npmjs.com/package/tyc)
-- 🏊自动化测试  [jqy](https://github.com/vvo-io/jqy)[🌱npm](https://www.npmjs.com/package/jqy)
-- 🏊一键图片压缩 [cy-rar](https://github.com/vvo-io/cy-rar)[🌱npm](https://www.npmjs.com/package/cy-rar)
-- 🏊快速搭建文档网站 [vvo](https://github.com/vvo-io/vvo)[🌱npm](https://www.npmjs.com/package/vvo)
-- 🏊代码分格检测
-- 🏊代码质量分析
+- 🌤快速搭建react vue 项目 [caiyi](http://gitlab.gs.9188.com/caiyi.html5.public/caiyi)[🌱npm](https://www.npmjs.com/package/caiyi)
+- 🌤ts，es6编译  [tyc](https://github.com/vvo-io/tyc)[🌱npm](https://www.npmjs.com/package/tyc)
+- 🌤自动化测试  [jqy](https://github.com/vvo-io/jqy)[🌱npm](https://www.npmjs.com/package/jqy)
+- 🌤一键图片压缩 [cy-rar](https://github.com/vvo-io/cy-rar)[🌱npm](https://www.npmjs.com/package/cy-rar)
+- 🌤快速搭建文档网站 [vvo](https://github.com/vvo-io/vvo)[🌱npm](https://www.npmjs.com/package/vvo)
+- 🌤代码分格检测
+- 🌤代码质量分析
 
 ## 需要掌握技术栈
 
-- react
-- vue
-- webpack
-- parcel
-- node
-- wepy
-- mpvue
-- pwa
-- canvas
-- svg
+- 🕷react
+- 🕷vue
+- 🕷webpack
+- 🕷parcel
+- 🕷node
+- 🕷wepy
+- 🕷mpvue
+- 🕷pwa
+- 🕷canvas
+- 🕷svg
 
 
 
