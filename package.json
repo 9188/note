@@ -1,5 +1,5 @@
 {
   "scripts":{
-    "start" : "git add . && git commit -m 1 && git push"
+    "start" : "git add . && git commit -m 'modify' && git push"
   }
 }
