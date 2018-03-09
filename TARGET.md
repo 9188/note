@@ -12,17 +12,17 @@
 
 ## 模板
 
-- 👑react h5大型项目模板 [h5-react](http://gitlab.gs.9188.com/caiyi.html5.public/h5-react)
-- 👑vue  h5大型项目模板 [h5-vue](http://gitlab.gs.9188.com/caiyi.html5.public/h5-vue)
-- 👑小程序项目模板 [mini-sample](http://gitlab.gs.9188.com/caiyi.html5.public/mini-sample)
-- 👑原生h5项目模板 [simple](http://gitlab.gs.9188.com/caiyi.html5.public/simple)
-- 👑RN 项目模板 [app-ReactNative](http://gitlab.gs.9188.com/caiyi.html5.public/app-ReactNative)
-- react SSR 项目模板
-- vue SSR 项目模板
-- 👑管理后台项目模板
-- 👑下载页模板
-- 👑微信活动模板
-- 👑pwa 项目模板
+- 💫react h5大型项目模板 [h5-react](http://gitlab.gs.9188.com/caiyi.html5.public/h5-react)
+- 💫vue  h5大型项目模板 [h5-vue](http://gitlab.gs.9188.com/caiyi.html5.public/h5-vue)
+- 💫小程序项目模板 [mini-sample](http://gitlab.gs.9188.com/caiyi.html5.public/mini-sample)
+- 💫原生h5项目模板 [simple](http://gitlab.gs.9188.com/caiyi.html5.public/simple)
+- 💫RN 项目模板 [app-ReactNative](http://gitlab.gs.9188.com/caiyi.html5.public/app-ReactNative)
+- 💫react SSR 项目模板
+- 💫vue SSR 项目模板
+- 💫管理后台项目模板
+- 💫下载页模板
+- 💫微信活动模板
+- 💫pwa 项目模板
 
 ## cli 工具类
 
